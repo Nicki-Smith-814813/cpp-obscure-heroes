@@ -70,9 +70,7 @@ You can choose any option by entering the corresponding number.
 
 Example Output
 Displaying all superheroes:
-bash
-Copy
-Edit
+
 --- Superhero List ---
 Name                 Power               Weakness            Year      Universe     Popularity
 ---------------------------------------------------------------------------------------------
